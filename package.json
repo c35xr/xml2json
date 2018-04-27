@@ -1,0 +1,20 @@
+{
+  "name": "xml-2-json",
+  "version": "1.0.0",
+  "description": "script to parse xml files to json",
+  "main": "index.js",
+  "author": "César Buenrostro",
+  "license": "MIT",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1"
+  },
+  "dependencies": {
+    "json2csv": "^4.1.2",
+    "xml2json": "^0.11.2"
+  }
+}
