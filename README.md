@@ -8,7 +8,12 @@ node v9
 ```
 
 ## To run
-```git clone ```
-```npm install```
-```npm start```
+```
+git clone
+
+npm start
+
+npm install
+```
+
 
